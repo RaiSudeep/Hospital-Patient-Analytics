@@ -16,8 +16,8 @@ This project analysed synthetic hospital patient data from Massachusetts General
 This project utilises **synthetic hospital data** containing ~1,000 patients from **Massachusetts General Hospital** over a **12-year period (2011-2022)**.  
 
 ### **Dataset Source:**  
-The dataset used in this project comes from **Mavenanalytics's** Hospital Patient Records Dataset:  
-🔗 [Download Dataset](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=health%20care)  
+The dataset used in this project comes from **Maven Analyticss** Hospital Patient Records Dataset:  
+🔗 [Download Dataset](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=Hospital%20Patient%20Records)
 
 ### **Dataset Structure:**  
 | Table Name    | Description |
