@@ -19,10 +19,6 @@ This project utilises **synthetic hospital data** containing ~1,000 patients fro
 The dataset used in this project comes from **Mavenanalytics's** Hospital Patient Records Dataset:  
 🔗 [Download Dataset](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=health%20care)  
 
-### **Google Drive Access**
-The dataset and results of this project is hosted on Google Drive due to file size limitations on GitHub.  
-[Download from Google Drive](https://drive.google.com/drive/u/0/folders/17hFGuHLuoKX7fvIsctL-511QDwq5pNcm)
-
 ### **Dataset Structure:**  
 | Table Name    | Description |
 |--------------|------------|
@@ -124,13 +120,13 @@ Cards provide **quick key metrics** for immediate insights:
 
 ### **SQL Setup & Analysis**  
 1️⃣ **Run Schema Setup:** Execute `schema_setup.sql` to set up database.  
-2️⃣ **Import Data:** Load CSV files from `datasets` folder.  
+2️⃣ **Import Data:** Load all 5 CSV datasets.  
 3️⃣ **Run Analytical Queries:** Execute queries from `analytical_queries.sql`.  
 4️⃣ **Optimize Query Performance:** Apply indexing & filtering for better efficiency.  
 
 ### **Power BI Dashboard Deployment**  
 1️⃣ **Open Power BI Desktop**  
-2️⃣ **Import Data** – Load CSV datasets & create relationships.  
+2️⃣ **Import Data** – Load all 5 CSV datasets & create relationships.  
 3️⃣ **Apply Visualisations** – Add **charts, slicers, and cards** for better insights.  
 4️⃣ **Customise Interactivity** – Enable **cross-filtering for dynamic reporting**.  
 5️⃣ **Publish Dashboard** – Export `.pbix` file or share online for access.  
