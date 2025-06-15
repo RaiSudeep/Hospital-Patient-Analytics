@@ -1,4 +1,4 @@
-# 🚑 Hospital Patient Records | SQL & Power BI Analytics 
+# 🚑 Hospital Patient Analytics | SQL & Power BI 
 This project analysed synthetic hospital patient data from Massachusetts General Hospital (2011–2022) using SQL and Power BI to uncover insights on admissions, treatment costs, mortality trends, and insurance coverage. The final dashboard integrates dynamic slicers and summary cards to deliver a comprehensive and interactive view of healthcare operations.
 
 ## 📌 Table of Contents  
